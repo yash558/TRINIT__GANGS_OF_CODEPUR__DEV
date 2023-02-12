@@ -32,7 +32,7 @@ const Navbar = () => {
                                 </ul>
 
                                 <div className="button">                                   
-                                    <button className='sign-up'>Sign Up</button>
+                                    <button className='sign-up'>Campaign</button>
                                 </div>
                             </div>
                         </div>

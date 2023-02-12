@@ -12,7 +12,7 @@ const Hero = () => {
                             <p>We are very much grateful to you for your donation. Your little effort help us to change big community life.</p>
                             <div className="hero-btn">
                                 <button className='btn mx-2 my-2'><a href="/" >Donate Now <i class="uil uil-heartbeat"></i></a></button>
-                                <button className='btn btn-1 video-play-btn'>
+                                <button className='video-play-btn'>
                                     <i class="uil uil-play"></i>
                                 </button>
                             </div>

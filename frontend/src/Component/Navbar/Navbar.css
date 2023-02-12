@@ -44,17 +44,17 @@ ul {
   justify-content: center;
 }
 
-.button {
+.hero.button {
   display: flex;
   align-items: center;
   justify-content: center;
 }
 
 .sign-up {  
-  border:1px solid #1d9771;
+  border:1px solid #26ba8a;
   padding: 10px;
   width: 100px;
-  color: #189b71;
+  color: #26ba8a;
   font-size: 1rem;
   cursor: pointer;
   background: transparent;
@@ -66,6 +66,6 @@ ul {
 }
 
 .sign-up:hover{
-  background-color: #208967;
+  background-color: #26ba8a;
   color: #fff;
 }

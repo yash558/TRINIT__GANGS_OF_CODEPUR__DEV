@@ -30,17 +30,16 @@ a{
     font-weight: 500;
     margin: 10px 0;
     cursor: pointer;
-    border: 1px solid #26ba8a;
-    transition: all 0.3s ease;
+    border: 1px solid #26ba8a;    
 }
 
-.hero-btn .btn i{
+.btn i{
     font-size: 1.5rem;
     align-items: center;
-    color: #fff;
+    
 }
 
-.hero-btn .btn a:hover{
+.btn a:hover{
     color: #26ba8a;
 
     background-color: #fff;
@@ -68,4 +67,29 @@ a{
     justify-content: center;
     flex-direction: row;  
     padding: 150px 0;
+}
+.video-play-btn {
+   
+    
+    border: 2px solid #26ba8a;
+   padding: 9px 14px;
+   background-color: #26ba8a;
+    border-radius: 100%;
+   color: #fff;
+    -webkit-border-radius: 100%;
+    -moz-border-radius: 100%;
+    -ms-border-radius: 100%;
+    -o-border-radius: 100%;
+}
+.video-play-btn i{    
+    font-size: 1.5rem;
+}
+
+.video-play-btn:hover {
+    background: #fff;
+   
+}
+
+.video-play-btn i:hover {
+    color: #26ba8a;
 }
